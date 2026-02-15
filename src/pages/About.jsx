@@ -48,11 +48,11 @@ const About = () => {
             {/* 1️⃣ Top Banner Section - SAMTU SAM PROGRAMS STYLE */}
             <section className="relative h-[500px] flex items-center justify-center bg-dark overflow-hidden">
                 <img
-                    src="https://images.unsplash.com/photo-1541534741688-6078c64b5ca5?auto=format&fit=crop&q=80"
-                    className="absolute inset-0 w-full h-full object-cover opacity-60"
-                    alt="About Background"
+                    src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80"
+                    className="absolute inset-0 w-full h-full object-cover opacity-80"
+                    alt="About RK Gym"
                 />
-                <div className="absolute inset-0 bg-black/40"></div>
+                <div className="absolute inset-0 bg-black/30"></div>
                 <div className="container mx-auto px-6 relative z-10 text-center mt-10">
                     <motion.span
                         initial={{ opacity: 0, y: 10 }}
